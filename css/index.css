@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+div{
+    background-color:lightblue;
+}
+
+.txtVerde{
+    color:green;
+}
+
+#principal{
+    background-color:gray;
+    font-size: large;
+}
